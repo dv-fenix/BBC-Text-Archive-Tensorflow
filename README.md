@@ -7,4 +7,5 @@ I have included the use of the Pandas library, which as many already know is a n
 The solution is presented in the Program.py file of the repository and, with minor modifications, can be applied to the users own specific use cases.
 
 The stop-words were picked out from the following repostiory: "https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js"
+
 The BBC-Archive used in this example can be found here: "https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv"
