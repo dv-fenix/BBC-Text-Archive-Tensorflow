@@ -1,2 +1,5 @@
-# BBC-Archive-Tensorflow-in-Practice-Week-1-
+# BBC Archive (Tensorflow in Practice Week 1)
 Tokenizing and removing common stopwords from the BBC Text Archives
+
+This repository is aimed at providing another method to solve the simplistic problem provided at the end of week 1 of the course.
+I have included the use of the Pandas library, which as many already know is a novel technique to easily handle ".csv" files(which is the format that the BBC Archives have been made available).
